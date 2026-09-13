@@ -1,3 +1,4 @@
 The random text
 The second line
-The third line was changed in main branch
+The third line was changed in conflict branch
+The fourth line in Conflict branch
